@@ -1,7 +1,7 @@
 # Capstone-Project-Credit-Card-Fraud-Detection
 # Machine Learning Engineer Nanodegree
 ## Specializations
-## Project: Capstone Proposal and Capstone Project - Credit Card Fraud Detection
+## Project: Capstone Project - Credit Card Fraud Detection
 
 **Note (Written by Udacity)**
 
